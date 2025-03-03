@@ -1,4 +1,5 @@
-# AI Scrapper- A simple AI web scraper using Ollama, LangChain, and Streamlit by building a RAG(Retrieval-Augmented Generation) system to chat with websites and answer complex questions about the content.
+# AI Scrapper
+- A simple AI web scraper using Ollama, LangChain, and Streamlit by building a RAG(Retrieval-Augmented Generation) system to chat with websites and answer complex questions about the content.
 
 
 Pre-requisites
