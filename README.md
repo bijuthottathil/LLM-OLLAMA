@@ -42,3 +42,29 @@ pip install -r requirements.txt
 
 ![image](https://github.com/user-attachments/assets/75693403-5eb9-4d14-8b19-243e6097de4e)
 
+
+Next execute from prompt 
+streamlit run ai_scraper.py   --> it will open AI Scraper page in new browser window
+](http://localhost:8501/  
+![image](https://github.com/user-attachments/assets/16072fa6-0326-4f52-8818-2c2909fdd484)
+
+
+Then you can open the web page to scrap the content like below
+
+I opened one rediff page with following content
+![image](https://github.com/user-attachments/assets/ccaad5ea-082f-40bb-88f3-81526280137a)
+
+
+![image](https://github.com/user-attachments/assets/a4e80ca8-1a7c-4c55-ab7a-5882f8b1a024)
+
+
+I searched for below pattern and AI Scrapper pulled below details from web site
+
+![image](https://github.com/user-attachments/assets/184e7129-d93b-4103-a48f-f1755f964307)
+
+![image](https://github.com/user-attachments/assets/ffb62e34-ca2f-4269-84ac-90f7aa6e2785)
+
+
+This is a very basic example, but we can enhance to get more specific data by enhancing the code
+
+
